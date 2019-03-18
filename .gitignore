@@ -1,0 +1,7 @@
+users.torch.pkl
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+tmp_*
+localconfig.py
+ltp_data_v3.4.0/
